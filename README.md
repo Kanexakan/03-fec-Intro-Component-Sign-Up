@@ -2,7 +2,7 @@
 
 Frontend Challenge - Intro Component with Sign Up
 
-Solution for Intro component with sign-up form challenge
+Solution for Intro component with sign-up form challenge.
 
 # Frontend Mentor - Intro component with sign-up form
 
